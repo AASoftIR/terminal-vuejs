@@ -5,7 +5,7 @@ Welcome to the **Terminal-like Website** project! This is a fun and interactive 
 ![Terminal-like Website Screenshot](public/assets/screenshot.png)
 
 ## 🖥️ Technology Used
-
+## LIVE AT: [Vercel](https://terminal-aasoft.vercel.app)
 This project leverages the following technologies:
 
 ### - **Vue.js**
